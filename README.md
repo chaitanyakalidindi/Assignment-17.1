@@ -34,4 +34,4 @@ The Logistic Regression model is the most promising for predicting term deposit 
 # Notebook
 You can access the full analysis and code in the following Jupyter Notebook:
 
-[Link to the Notebook - Replace with actual link]
+https://github.com/chaitanyakalidindi/Assignment-17.1/blob/main/prompt_III.ipynb
